@@ -1,13 +1,13 @@
-�츮�� ����ϴ� 
-��Ŭ���̾�Ʈ git - eGit
-�������� git - gitHub
+우리가 사용하는 
+▷클라이언트 git - eGit
+▷서버측 git - gitHub
 
-�ܰ��伳��
+●개념설명
 gitHub
 git
 eGit
 
-�ܿ���
+●용어설명
 (Git & eGit)
 clone
 pull
@@ -22,8 +22,8 @@ issue
 collaborators
 fork
 
-���浹�� �Ͼ�� �ʱ� ���ؼ���?
-�� �浹�� �Ͼ�°�?
-�Ͼ�� ��ԵǴ°�?
-������?
-  
+●충돌이 일어나지 않기 위해서는?
+왜 충돌이 일어나는가?
+일어나면 어떻게되는가?
+예방방법?
+  ㅇㅇㅇㅇㅇㅇㅇㅇㅇㅇㅇㅇㅇㅇㅇㅇㅇㅇㅇㅇㅇㅇㅇㅇㅇㅇㅇㅇㅇㅇ
