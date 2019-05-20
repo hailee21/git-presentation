@@ -9,3 +9,6 @@ https://license.kpc.or.kr/kpc/qualfAthrz/index.do
 
 홈페이지 디자인 - 아이티맵 LMS 데모
 http://www.itmap.co.kr/lms/demo.asp
+
+운영기준 (출결) -xinics
+https://xinics.atlassian.net/wiki/spaces/Xinicsleaningx/pages/631636193/13.
