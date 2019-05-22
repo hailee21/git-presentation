@@ -12,3 +12,7 @@ http://www.itmap.co.kr/lms/demo.asp
 
 운영기준 (출결) -xinics
 https://xinics.atlassian.net/wiki/spaces/Xinicsleaningx/pages/631636193/13.
+
+
+알밤 (관리자, 직원)메뉴얼 참고
+https://www.albam.net/ko/howtouse/
